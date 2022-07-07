@@ -187,6 +187,13 @@ header {
     border-radius: 10px;
 }
 
+.newsletter-outside {
+    background-color: rgba(144, 240, 106, 0.555);
+    padding: 80px;
+    margin-top: 30px;
+    border-radius: 10px;
+}
+
 /*=================== Footer ==================*/
 
 footer {
